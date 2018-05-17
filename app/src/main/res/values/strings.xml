@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBaseDemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="use_realm">Use Realm</string>
+    <string name="use_sql">Use SQL</string>
+    <string name="title_activity_sql">SqlActivity</string>
+</resources>
